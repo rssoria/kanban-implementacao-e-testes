@@ -1,0 +1,28 @@
+.coluna {
+  text-align: center;
+  padding: 37px;
+  position: relative;
+  width: 100%;
+  border: 1px solid black;
+  min-height: 500px;
+}
+
+.coluna h3 {
+  font-size: 32px;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.input-cor {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
