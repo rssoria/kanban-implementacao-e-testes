@@ -3,7 +3,7 @@ import Card from "../Card";
 import "./style.css";
 
 const Coluna = (props) => {
-  const { id, nome, cor, cards, aoDeletar, colunas, mudarColuna } = props;
+  const { nome, cor, cards, aoDeletar, colunas, mudarColuna } = props;
   return (
     <section
       className="coluna"

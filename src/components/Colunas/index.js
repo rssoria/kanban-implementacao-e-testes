@@ -9,7 +9,6 @@ const Colunas = ({ colunas, cards, aoDeletar, mudarColuna }) => {
           key={coluna.id}
           nome={coluna.nome}
           cor={coluna.cor}
-          id={coluna.id}
           cards={cards.filter((card) => card.coluna === coluna.nome)}
           aoDeletar={aoDeletar}
           colunas={colunas}
