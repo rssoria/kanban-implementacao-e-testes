@@ -1,5 +1,4 @@
-
-#Organograma criado como parte do curso de React.js da Alura
+#Sistema de kanban básico criado para a disciplina de ENGENHARIA DE SOFTWARE: IMPLEMENTAÇÃO E TESTES
 
 # Getting Started with Create React App
 
